@@ -2,7 +2,6 @@
 안녕하세요! 🙋‍♀️ AI와 데이터를 공부하는 개발자입니다.
 
 <br />
-<br />
 
 ## Skills
 #### I use it often.
@@ -13,7 +12,7 @@
 
 <br />
 
-#### I've used it before.
+#### I've used it before
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
