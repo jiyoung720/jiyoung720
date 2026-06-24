@@ -1,4 +1,4 @@
-# 변지영 (jiyoung) 👋
+# 변지영 (Jiyoung) 👋
 
 AI & Backend Developer in Progress
 
@@ -13,6 +13,12 @@ AI & Backend Developer in Progress
 - Retrieval-Augmented Generation (RAG)
 - FastAPI
 - AI Evaluation
+
+---
+
+## 📈 Contribution Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jiyoung720&theme=github-compact)](https://github.com/jiyoung720)
 
 ---
 
@@ -39,18 +45,19 @@ AI & Backend Developer in Progress
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jiyoung720&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyoung720&layout=compact" />
-</p>
-
----
-
-## 🎯 2026 Goals
-
-- Complete AI Interview Coach MVP
-- Build production-ready RAG systems
-- Strengthen backend engineering skills
-- Contribute to open-source projects
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/jiyoung720/jiyoung720/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/jiyoung720/jiyoung720/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/jiyoung720/jiyoung720/output/github-contribution-grid-snake.svg"
+  />
+</picture>
