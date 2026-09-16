@@ -22,29 +22,6 @@ AI & Backend Developer in Progress
 
 ---
 
-## 🛠 Tech Stack
-
-### Main
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### AI / Data
-
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge)
-![RAGAS](https://img.shields.io/badge/RAGAS-FF6B6B?style=for-the-badge)
-
-### Experience
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
 ## 🐍 Contribution Snake
 
 <picture>
