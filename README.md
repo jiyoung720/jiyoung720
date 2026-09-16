@@ -16,12 +16,6 @@ AI & Backend Developer in Progress
 
 ---
 
-## 📈 Contribution Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jiyoung720&theme=github-compact)](https://github.com/jiyoung720)
-
----
-
 ## 🐍 Contribution Snake
 
 <picture>
